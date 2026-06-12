@@ -2,7 +2,11 @@
 <!-- HEADER: Tipografía animada con tu especialización -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=%C2%A1Hola!+Soy+Anthony+Manuel; Especialista+en+React+%26+Django+REST+Framework;Backend+%26+Cloud+Engineer+(AWS);L%C3%ADder+de+Equipo+en+ScreenIA" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFCC,100:7B2FF7&height=160&section=header&text=Anthony%20Manuel&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=42" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=760&lines=%20Especialista+en+React+%26+Django+REST+Framework;%20Backend+%26+Cloud+Engineer+(AWS);%20Tiempo+real+con+WebSockets+%26+Microservicios;%20L%C3%ADder+de+Equipo+en+ScreenIA" alt="Typing SVG" />
 </p>
 
 <!-- LÍNEA DE SEPARACIÓN CON ONDAS ANIMADAS -->
@@ -68,10 +72,11 @@
 </p>
 
 <!-- DATOS -->
-<b>🗄️ Bases de Datos & Cache</b><br>
+<b>🗄️ Bases de Datos, Cache & Storage</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
 </p>
 
 <!-- CLOUD / DEVOPS -->
@@ -79,6 +84,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -121,12 +127,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔄 TaskFlow</h4>
-      <p>Gestión de tareas con arquitectura de <b>microservicios</b>, migrada eficientemente a la nube.</p>
+      <h4>🗂️ TaskFlow</h4>
+      <p>Espacio de trabajo y gestión de tareas <b>estilo Notion</b>: bloques editables, colaboración en tiempo real vía <b>WebSockets</b> y arquitectura de microservicios.</p>
       <p>
-        <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/-Django_REST-A30000?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Celery-3771A1?style=flat-square&logo=celery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -154,8 +163,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RootGamez&theme=radical" alt="Racha de Commits" />
 </p>
-
-
 
 ---
 
