@@ -140,11 +140,13 @@
     </td>
     <td width="50%" valign="top">
       <h4>🍕 Pizzería Sabor Llanero</h4>
-      <p>Landing page del negocio familiar, desplegada en <b>VPS de AWS</b> con Nginx + PM2.</p>
+      <p>Landing page del negocio familiar (Next.js 15 + React 19), desplegada en <b>Cloudflare Pages</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
       </p>
     </td>
   </tr>
