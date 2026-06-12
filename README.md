@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=760&lines=%20Especialista+en+React+%26+Django+REST+Framework;%20Backend+%26+Cloud+Engineer+(AWS);%20Tiempo+real+con+WebSockets+%26+Microservicios;%20L%C3%ADder+de+Equipo+en+ScreenIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=760&lines=%20Especializandome+en+React+%26+Django+REST+Framework;%20Backend+%26+Cloud+Engineer+(AWS);%20Tiempo+real+con+WebSockets+%26+Microservicios;%20L%C3%ADder+de+Equipo+en+ScreenIA" alt="Typing SVG" />
 </p>
 
 <!-- LÍNEA DE SEPARACIÓN CON ONDAS ANIMADAS -->
