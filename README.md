@@ -2,7 +2,7 @@
 <!-- HEADER: Tipografía animada con tu especialización -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=%C2%A1Hola!+Soy+Anthony+Manuel;Especialista+en+React+%26+Django+REST+Framework;Backend+%26+Cloud+Engineer+(AWS);L%C3%ADder+de+Equipo+en+ScreenIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=%C2%A1Hola!+Soy+Anthony+Manuel; Especialista+en+React+%26+Django+REST+Framework;Backend+%26+Cloud+Engineer+(AWS);L%C3%ADder+de+Equipo+en+ScreenIA" alt="Typing SVG" />
 </p>
 
 <!-- LÍNEA DE SEPARACIÓN CON ONDAS ANIMADAS -->
